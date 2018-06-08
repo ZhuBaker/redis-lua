@@ -6,5 +6,8 @@ Redis + Lua 抢红包程序设计
 
 主Lua脚本 ： red/red.lua
 
+环境：
 单机Redis
-10000 红包 服务器测试 约1m 抢完
+CentOS + 32G内存
+拆分10000红包
+约1s抢完
