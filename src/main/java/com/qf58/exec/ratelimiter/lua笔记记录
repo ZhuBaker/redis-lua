@@ -1,0 +1,2 @@
+lua脚本返回false Jedis evl 执行结果返回 null
+lua脚本返回true Jedis evl 执行结果返回 1
